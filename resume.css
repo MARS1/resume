@@ -108,9 +108,10 @@ hr {
 }
 
 nav.contact {
-	width: 60%;
+	width: 634px;
 	margin: 0 auto;
 	padding: 0;
+	display: block;
 }
 
 nav.contact ul li.icons {
